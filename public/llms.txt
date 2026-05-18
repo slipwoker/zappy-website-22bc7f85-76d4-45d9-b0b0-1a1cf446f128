@@ -1,0 +1,83 @@
+# שירן זבולון ושות' - משרד עורכי דין — Generative Engine Optimization Map
+
+> A family law attorney practice specializing in legal services related to family matters. The practice focuses on providing professional legal counsel and representation in family-related legal cases.
+
+---
+
+## Pages
+
+### בית
+https://shiran-zevulun-and-partners-la.zappy5.app
+מחפשים עורכת דין לדיני משפחה עם ניסיון וסמכות? משרד שירן זבולון ושות&#39; מעניק ייעוץ משפטי מקצועי בגירושין, צוואות וסכסוכי משפחה. פנו אלינו היום.
+
+### תחומי עיסוק
+https://shiran-zevulun-and-partners-la.zappy5.app/practice-areas
+גירושין, הסכמי ממון, צוואות וייפוי כוח מתמשך – גלו את מלוא תחומי העיסוק של עו&quot;ד לדיני משפחה שירן זבולון. טיפול מקצועי, אישי ומחויב בכל תיק.
+
+### אודות
+https://shiran-zevulun-and-partners-la.zappy5.app/about
+שירן זבולון היא עורכת דין לדיני משפחה עם מומחיות, אמפתיה ותוצאות מוכחות. גלו מה מייחד את המשרד ולמה לקוחות בוחרים בנו בשעות הקשות ביותר.
+
+### צור קשר
+https://shiran-zevulun-and-partners-la.zappy5.app/contact
+רוצים לדבר עם עו&quot;ד לדיני משפחה שמקשיב ומבין? צרו קשר עם משרד שירן זבולון ושות&#39; לייעוץ ראשוני ומקצועי. אנחנו כאן כדי לעזור – אל תחכו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://shiran-zevulun-and-partners-la.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://shiran-zevulun-and-partners-la.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://shiran-zevulun-and-partners-la.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://shiran-zevulun-and-partners-la.zappy5.app/contact
+- Endpoint: https://shiran-zevulun-and-partners-la.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שירן זבולון ושות' - משרד עורכי דין
+A family law attorney practice specializing in legal services related to family matters. The practice focuses on providing professional legal counsel and representation in family-related legal cases.
+
+## Services/Products
+- דיני משפחה
+
+## Target Audience
+- הורים גרושים
+- זוגות לפני נישואין
+- משפחות עם סכסוכי ירושה
+- זוגות בתהליך פרידה
+- הגיל השלישי
+
+## Industry
+Family Law
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://shiran-zevulun-and-partners-la.zappy5.app/sitemap.xml
+- Robots: https://shiran-zevulun-and-partners-la.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://shiran-zevulun-and-partners-la.zappy5.app/llms-full.txt
