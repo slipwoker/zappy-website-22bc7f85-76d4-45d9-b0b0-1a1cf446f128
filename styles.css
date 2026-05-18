@@ -2605,10 +2605,9 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   margin-inline-start: 0;
 }
 
-/* H1 */
 .index-hero-section .index-hero-h1 {
   font-family: 'Rubik', sans-serif;
-  font-size: 3rem;
+  font-size: 2.2rem;
   font-weight: 700;
   line-height: 1.2;
   letter-spacing: -0.01em;
@@ -2736,9 +2735,9 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 
   .index-hero-section .index-hero-h1 {
-    font-size: 2rem;
-    margin-bottom: 14px;
-  }
+  font-size: 1.5rem;
+  margin-bottom: 14px;
+}
 
   .index-hero-section .index-hero-subtitle {
     font-size: 1rem;
@@ -2764,8 +2763,8 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 
   .index-hero-section .index-hero-h1 {
-    font-size: 2.4rem;
-  }
+  font-size: 1.8rem;
+}
 }
 /* ZAPPY_POSTGEN_GUARD_HERO_FONT_CAP:index-hero */
 .hero h1, .hero-section h1, [class*="hero-"] h1, [class~="hero"] h1, .hero .hero-title, .hero-title { font-size: min(var(--display-xl, 6rem), 6rem) !important; line-height: var(--leading-display, 1.05); }
@@ -7852,6 +7851,22 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 #mic-init-access-tool #mic-access-tool-general-button,
 ._access-icon {
   display: flex !important;
+}
+
+.index-hero-section .index-hero-h1 {
+  font-size: 2.2rem !important;
+}
+
+@media (max-width: 768px) {
+.index-hero-section .index-hero-h1 {
+  font-size: 1.5rem !important;
+}
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+.index-hero-section .index-hero-h1 {
+  font-size: 1.8rem !important;
+}
 }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
